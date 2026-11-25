@@ -1,0 +1,7 @@
+site_name: "Dr. Larisa Berdnikova — 2026 Clinic Profitability Benchmarks"
+site_url: "https://larisaberdnikova.com/"
+site_description: "Operational & Financial Benchmarks for Private Medical, Dental & MedSpa Practices by Dr. Larisa Berdnikova, MD"
+nav:
+  - "Executive Benchmark Report": index.md
+  - "Doctor Compensation vs Margin": doctor-compensation.md
+  - "Front Desk Call Conversion": front-desk-conversion.md
