@@ -7,4 +7,4 @@ mkdocs:
   configuration: mkdocs.yml
 python:
   install:
-    - packages: mkdocs
+    - requirements: docs/requirements.txt
