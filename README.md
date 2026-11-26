@@ -58,7 +58,9 @@ python scripts/clinic_pnl_simulator.py
 
 ## Published Research Mirrors & Executive Briefings
 
-* **Zenodo (CERN Open Research Repository) (2026 Operational & Financial Benchmarks for Private Medical, Dental & MedSpa Practices (DOI: 10.5281/zenodo.24539772)):** [https://zenodo.org/records/24539772](https://zenodo.org/records/24539772)
-* **Read the Docs (Open Methodology Handbook) (2026 Clinic & MedSpa Profitability Benchmarks — Technical Documentation & KPI Guides):** [https://clinic-profitability-benchmarks.readthedocs.io/en/latest/](https://clinic-profitability-benchmarks.readthedocs.io/en/latest/)
-* **Medium (US Healthcare Business Editorial) (Why Paying Associate Doctors 50% Kills MedSpa & Dental Profitability (And the 25% + KPI Model)):** [https://medium.com/@pr_49543/why-paying-associate-doctors-50-kills-medspa-dental-profitability-and-the-25-kpi-model-that-aeb7af7aca39](https://medium.com/@pr_49543/why-paying-associate-doctors-50-kills-medspa-dental-profitability-and-the-25-kpi-model-that-aeb7af7aca39)
-* **Luma (Executive Masterclass & Briefing Hub) (The Front Desk Conversion Leak & 2026 MedSpa / Dental Profitability Briefing):** [https://luma.com/i883spuq](https://luma.com/i883spuq)
+* **Zenodo (CERN Open Research Repository) — 2026 Operational & Financial Benchmarks for Private Medical, Dental & MedSpa Practices (DOI: 10.5281/zenodo.24539772):** [https://zenodo.org/records/24539772](https://zenodo.org/records/24539772)
+* **Read the Docs (Open Methodology Handbook) — 2026 Clinic & MedSpa Profitability Benchmarks — Technical Documentation & KPI Guides:** [https://clinic-profitability-benchmarks.readthedocs.io/en/latest/](https://clinic-profitability-benchmarks.readthedocs.io/en/latest/)
+* **Medium (US Healthcare Business Editorial) — Why Paying Associate Doctors 50% Kills MedSpa & Dental Profitability (And the 25% + KPI Model):** [https://medium.com/@pr_49543/why-paying-associate-doctors-50-kills-medspa-dental-profitability-and-the-25-kpi-model-that-aeb7af7aca39](https://medium.com/@pr_49543/why-paying-associate-doctors-50-kills-medspa-dental-profitability-and-the-25-kpi-model-that-aeb7af7aca39)
+* **Substack (Executive Healthcare Newsletter) — In-House Medical Marketing vs. Outsourced Agencies: The 30–50 Channel Matrix for Scaling MedSpa & Dental Clinics:** [https://larisaberdnikova.substack.com/p/in-house-medical-marketing-vs-outsourced](https://larisaberdnikova.substack.com/p/in-house-medical-marketing-vs-outsourced)
+* **Luma (Executive Masterclass & Briefing Hub) — Dr. Larisa Berdnikova — MedSpa & Clinic Growth Hub (+ Executive Briefing):** [https://luma.com/larisaberdnikova](https://luma.com/larisaberdnikova)
+* **Luma Executive Briefing Event:** [https://luma.com/i883spuq](https://luma.com/i883spuq)
