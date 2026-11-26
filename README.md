@@ -64,3 +64,15 @@ python scripts/clinic_pnl_simulator.py
 * **Substack (Executive Healthcare Newsletter) — In-House Medical Marketing vs. Outsourced Agencies: The 30–50 Channel Matrix for Scaling MedSpa & Dental Clinics:** [https://larisaberdnikova.substack.com/p/in-house-medical-marketing-vs-outsourced](https://larisaberdnikova.substack.com/p/in-house-medical-marketing-vs-outsourced)
 * **Luma (Executive Masterclass & Briefing Hub) — Dr. Larisa Berdnikova — MedSpa & Clinic Growth Hub (+ Executive Briefing):** [https://luma.com/larisaberdnikova](https://luma.com/larisaberdnikova)
 * **Luma Executive Briefing Event:** [https://luma.com/i883spuq](https://luma.com/i883spuq)
+
+## Interactive Practice Calculators & Insights Hub
+
+Explore all empirical guides and interactive clinic unit-economics simulators on **[larisaberdnikova.com/insights.html](https://larisaberdnikova.com/insights.html)**:
+
+1. **[Associate Doctor Commission Benchmark: 25% + KPI vs. 50% Split](https://larisaberdnikova.com/insight-doctor-commission.html)** — Interactive doctor payroll & EBITDA recovery simulator.
+2. **[Medical & Dental Front Desk Phone Scripts (35% → 80% Booking)](https://larisaberdnikova.com/insight-front-desk-scripts.html)** — Fixing "How much does it cost?" with the 5-stage Value Justification protocol.
+3. **[Why a 10% Discount Destroys 50% of Clinic Profit](https://larisaberdnikova.com/insight-discount-trap.html)** — Discount margin-erosion calculator, bonus certificates, RFM segmentation & 30–50 channels.
+4. **[Treatment Coordinator System: Fixing the 95% Drop-Off (70%+ Acceptance)](https://larisaberdnikova.com/insight-treatment-coordinator.html)** — Care plan acceptance ROI simulator.
+5. **[2026 Private Clinic & MedSpa P&L Scorecard](https://larisaberdnikova.com/insight-clinic-pnl-benchmarks.html)** — Rent cap (≤8%–10%), total payroll ceiling (<50%), and weekly fund allocation.
+6. **[Chief Medical Officer vs. Practice Manager: KPIs & Founder Autonomy](https://larisaberdnikova.com/insight-cmo-vs-manager.html)** — Escaping 24/7 clinical firefighting with dual executive KPIs.
+
