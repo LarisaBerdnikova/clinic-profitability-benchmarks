@@ -52,3 +52,12 @@ Run the included Python verification model to compare an unoptimized practice (`
 ```bash
 python scripts/clinic_pnl_simulator.py
 ```
+
+
+---
+
+## Published Research Mirrors & Executive Briefings
+
+* **Zenodo (CERN Open Research Repository) (2026 Operational & Financial Benchmarks for Private Medical, Dental & MedSpa Practices (DOI: 10.5281/zenodo.24539772)):** [https://zenodo.org/records/24539772](https://zenodo.org/records/24539772)
+* **Read the Docs (Open Methodology Handbook) (2026 Clinic & MedSpa Profitability Benchmarks — Technical Documentation & KPI Guides):** [https://clinic-profitability-benchmarks.readthedocs.io/en/latest/](https://clinic-profitability-benchmarks.readthedocs.io/en/latest/)
+* **Hashnode (Healthcare Business Publication) (In-House Medical Marketing vs. Outsourced Agencies: The 30–50 Channel Matrix for Scaling MedSpa & Dental Clinics):** [https://larisaberdnikova.hashnode.dev/](https://larisaberdnikova.hashnode.dev/)
